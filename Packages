@@ -1,12 +1,12 @@
 Package: com.a3ms.Snap++
-Version: 3.0
+Version: 4.0
 Architecture: iphoneos-arm
 Maintainer: Omar
-Filename: ./debs/com.a3ms.snap++_3.0_iphoneos-arm.deb
-Size: 4594134
-MD5sum: fc2f92489563e102d8528ddac9608d07
-SHA1: 847de3caaa43fd4328dc9c23da8e94e8fd8a4d37
-SHA256: 75a3f10ccfd72c24799040e692bbaf4bfe960437913786e046083407d118e5d1
+Filename: ./debs/com.a3ms.snap++_4.0_iphoneos-arm.deb
+Size: 10873560
+MD5sum: daded3e910615a321f6549a8c0cc2669
+SHA1: 84faecf28768cc6282e44ea8003f2392fdbd5dd9
+SHA256: e9e02f82c075c6fb5453b5ee103a54379a763451a8197f14068bbf9306aee54a
 Section: Tweaks
 Description: هكر سناب جات
 Author: Omar
