@@ -12,3 +12,27 @@ Description: هكر سناب جات
 Author: Omar
 Name: Omar Snap+
 
+Package: com.cokepokes.phantom
+Version: 4.5.9-4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 8511
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.cokepokes.libphantom (>= 1.0-3), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
+Filename: ./debs/phantom_4.5.9-4.deb
+Size: 4082646
+MD5sum: f3ce361cb8ccd676327a5b48c374ad0c
+SHA1: 8b50f162b290ae9ae02caec2f81d9230d5aff32f
+SHA256: d3212ce71d56e7b94beb963683b0d3a3950589a7f1e6ca28d5dcc6a06fe5f84a
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Description: Break nearly all of Snapchat's limits
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phantom.bundle/phantomIcon@2x.png
+Name: Phantom for Snapchat
+Sponsor: thebigboss.org <http://thebigboss.org>
+
