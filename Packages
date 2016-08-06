@@ -3,12 +3,14 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Omar
 Filename: ./debs/com.a3ms.snap++_1.0_iphoneos-arm.deb
-Size: 610
-MD5sum: 0158106cff7040d70b97b5113c368a2a
-SHA1: 8c662844697df6adabf47c517cb21a10c009ec24
-SHA256: 4c9ca61d790bc0aef18209ae642b2b3d021fa4467be67711441a5d60d6ceffb5
+Size: 636
+MD5sum: d2f11d532329845ba0d484a04c50f4e8
+SHA1: af02da244e15480be080fcb180ae56e16d41160d
+SHA256: df60360c9f30c5b40a6f76203a3dc3e2bbee6ab87441e7ce8866d495ca15a54b
 Section: Tweaks
+Homepage: http://www.saurik.com/id/7
 Description: هكر سناب جات
 Author: Omar
+Depiction: http://www.saurik.com/id/7
 Name: Snap++
 
