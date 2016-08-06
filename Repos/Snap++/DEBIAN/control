@@ -1,10 +1,8 @@
 Package: com.a3ms.Snap++
-Name: Snap++
-Version: 1.0
+Name: Omar Snap+
+Version: 2.0
 Architecture: iphoneos-arm
 Description: هكر سناب جات
-Homepage: http://www.saurik.com/id/7
-Depiction: http://www.saurik.com/id/7
 Maintainer: Omar
 Author: Omar
 Section: Tweaks
